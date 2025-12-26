@@ -17,3 +17,19 @@ h1 {
 h2 {
   color: rgb(67, 105, 92);
 }
+
+.basico {
+  color: rgba(30, 170, 17, 0.635);
+}
+
+.intermediario {
+  color: rgba(155, 171, 19, 0.593);
+}
+
+.avancado {
+  color: rgba(166, 18, 18, 0.636);
+}
+
+.destaque {
+  background-color: rgba(111, 64, 31, 0.633);
+}
